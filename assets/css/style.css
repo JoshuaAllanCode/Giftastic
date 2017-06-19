@@ -1,0 +1,92 @@
+#body {
+
+	height: 100%;
+
+}
+
+#wrapper {
+
+	background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+#title{
+	
+	padding: 15px;
+	color: red;
+    display: inline-block;
+    font-family: 'Roboto';
+
+   
+}
+
+#intro{
+	
+	padding: 15px;
+	color: red;
+    display: inline-block;
+    font-family: 'Roboto';
+    text-align: center;
+}
+
+.pic{
+
+	height: 200px;
+	width: 200px;
+}
+
+#movies-view {
+
+	display: inline-block;
+	text-align: center;
+}
+
+#buttons-view {
+
+	display: inline-block;
+	text-align: center;
+}
+
+#movie-form{
+
+	display: inline-block;
+	text-align: center;
+
+}
+
+#movie-input{
+
+	margin: center;
+
+}
+
+#label{
+	
+	font-family: 'Roboto';
+	color: white;
+	font-size: large;
+
+}
+
+
+button{
+
+	width: 118px;
+	margin: 20px 20px 50px 20px;
+	border-radius: 25px;
+
+}
+
+#opener{
+
+	color: red;
+	font-size: 75px;
+	font-family: 'Roboto';
+}
+
+#footer{
+
+	margin: 50px 50px 200px 50px;
+}
